@@ -15,13 +15,15 @@ Copyright (C) 2023  Al3xxx84
 Nach Eingabe der Daten wird der Berechnete BMI sowie die Bewertung ob der Nutzer Unter- Über- oder Normalgewichtig hat angezeigt.
 
 Um das Programm zu Nutzen wird Python3 benötigt. 
+
 Starten des Programmes im Terminal mit dem Kommando python3 BMI.py.
+
 Zum Starten unter einer grafischen Oberflache: Rechtsklick auf Datei -> Eigenschaften -> Zugriffsrechte -> Haken bei "Datei darf als Programm gestartet werden" setzen -> Doppelklick auf Datei.
 
 
 
 
-this program is free software: you can redistribute it and/or modify
+This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
 he Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
