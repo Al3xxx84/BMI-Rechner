@@ -1,4 +1,21 @@
 #!/usr/bin/env python
+
+#    BMI-Rechner, ein Programm zur Berechnung des BMI (Body Mass Index)
+#    Copyright (C) 2023  Al3xxx84
+#
+#    This program is free software: you can redistribute it and/or modify
+#    it under the terms of the GNU General Public License as published by
+#    the Free Software Foundation, either version 3 of the License, or
+#    (at your option) any later version.
+#
+#    This program is distributed in the hope that it will be useful,
+#    but WITHOUT ANY WARRANTY; without even the implied warranty of
+#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#    GNU General Public License for more details.
+#
+#    You should have received a copy of the GNU General Public License
+#    along with this program.  If not, see <https://www.gnu.org/licenses/>.
+
 print("""         ______ ___  ___ _____       ______             _                        
          | ___ \|  \/  ||_   _|      | ___ \           | |                       
          | |_/ /| .  . |  | | ______ | |_/ / ___   ___ | |__   _ __    ___  _ __ 
@@ -7,6 +24,9 @@ print("""         ______ ___  ___ _____       ______             _
          \____/ \_|  |_/ \___/       \_| \_|\___| \___||_| |_||_| |_| \___||_|   
          
 Herzlich Willkommen zum BMI-Rechner von Al3xxx84!""")
+print("")
+print("BMI-Rechner  Copyright (C) 2023  Al3xxx84")
+print("This program comes with ABSOLUTELY NO WARRANTY; for details visit https://www.gnu.org/licenses/. This is free software, and you are welcome to redistribute it under certain conditions")
 print("")
 print("""Die Informationen dieses Programms dürfen auf keinen Fall als Ersatz für professionelle Beratung oder Behandlung durch ausgebildete und anerkannte Ärzte angesehen werden. Der Inhalt von BMI-Rechner kann und darf nicht verwendet werden, um eigenständig Diagnosen zu stellen oder Behandlungen anzufangen.""")
 print("")
